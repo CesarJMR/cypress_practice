@@ -19,5 +19,8 @@
   "homepage": "https://github.com/CesarJMR/cypress_practice#readme",
   "dependencies": {
     "cypress": "^6.4.0"
+  },
+  "devDependencies": {
+    "cypress-wait-until": "^1.7.1"
   }
 }
